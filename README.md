@@ -7,6 +7,8 @@ crowd movements and occluded image persons.
 ## Marathon Re-ID (MRID) Dataset
 We also have collected a large number of marathon images equipped with the text cues information to provide a reliable benchmark for person re-id. This dataset has more challenging issues, such as crowded movement, occlusion, person with similar attributes, and inter- and intra class variation.
 
+Please <a href="#">click here</> to download the dataset. [Note, we will release the dataset a couple of weeks later.]
+
 <div align="center">
   <img src="https://github.com/pribadihcr/rire/blob/master/snapshot2.png"/>
 </div>
