@@ -22,10 +22,11 @@ RIRE  is released under the Apache 2.0 license.
 ## Citing Detectron2
 Currently, we are submitting RIRE into IEEE Signal Processing Letter and still under reviewed. Hence, if you use RIRE in your research, please use the following BibTeX entry. Later, we will update the bibtex based on the decision of SPL.
 
+```BibTeX
 @misc{rudy2020rire,
   author =    {Rudy Cahyadi Hario Pribadi and Hsing-Kuo Pao and Didik Purwanto and Mohammad Iqbal}
   title =        {RIRE},
   howpublished = {\url{https://github.com/pribadihcr/rire}},
   year =         {2020}
 }
-
+```
