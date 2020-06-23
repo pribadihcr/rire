@@ -21,7 +21,7 @@ We still partially upload the source codes and datasets and will release whole t
 ## License
 RIRE  is released under the Apache 2.0 license.
 
-## Citing Detectron2
+## Citing RIRE
 Currently, we are submitting RIRE into IEEE Signal Processing Letter and still under reviewed. Hence, if you use RIRE in your research, please use the following BibTeX entry. Later, we will update the bibtex based on the decision of SPL.
 
 ```BibTeX
